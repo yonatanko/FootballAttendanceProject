@@ -1,4 +1,4 @@
-# ⚽ Football Attendance and Extreme Weather Analysis 🌧️
+# ⚽ Football Attendance and Extreme Weather Analysis
 
 ## 📌 Project Overview
 This project investigates whether extreme weather conditions prior to a Premier League match impact stadium attendance. Using data from multiple seasons, we apply causal inference methods to estimate the Average Treatment Effect (ATE) of severe weather conditions on match attendance.
